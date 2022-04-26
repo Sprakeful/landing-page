@@ -35,9 +35,9 @@ body > *{
  .menu-list{
      display: flex;
      gap: 24px;
-     margin: 24px;
      list-style-type: none;
      font-size: 18px;
+     padding: 0;
  }
  .menu-list a{
     text-decoration: none;
