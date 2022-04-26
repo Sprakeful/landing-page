@@ -226,3 +226,18 @@ body > *{
     text-decoration: none;
     color:white;
 }
+
+/* ------------------------------------------------- */
+/* ------------------------------------------------- */
+/* ------------- FOOTER SECTION STYLING ------------ */
+/* ------------------------------------------------- */
+/* ------------------------------------------------- */
+.footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: stretch;
+    align-items: stretch;
+    flex-direction: column;
+    color:white;
+    padding: 24px 400px;
+}
